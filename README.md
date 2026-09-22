@@ -63,7 +63,7 @@ beliefs and observed decision-making.
 
 ## Tools
 
-Python • Pandas • NumPy • Matplotlib 
+Python • Pandas • NumPy • Matplotlib • Scikit-learn
 
 ## Repository Contents
 
